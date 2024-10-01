@@ -1,5 +1,5 @@
 # Maze-Solving
- 使用OpenCV來解決迷宮問題
+ 使用OpenCV搭配DFS來解決迷宮問題
 # 效果
 範例1:
 

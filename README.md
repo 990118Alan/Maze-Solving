@@ -1,5 +1,5 @@
 # Maze-Solving
- Maze-Solving
+ 使用OpenCV來解決迷宮問題
 # 效果
 範例1:
 
